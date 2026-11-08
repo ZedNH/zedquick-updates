@@ -1,8 +1,8 @@
 {
-  "version": "3.6.2",
-  "url": "https://raw.githubusercontent.com/ZedNH/zedquick-updates/main/packages/zedquick-3.6.2.zqu",
-  "sha256": "fb766a397e0d6a3b13085f0faf3f3638bc044e516a25c9b9ef4b14d109d36f33",
-  "size": 3686141,
-  "notes": "Cleaner Settings page (no document bar, tool search or tab bar while it is open) and a compact About section",
+  "version": "3.6.3",
+  "url": "https://raw.githubusercontent.com/ZedNH/zedquick-updates/main/packages/zedquick-3.6.3.zqu",
+  "sha256": "9b417feefdfbbe533c35fcd399462f32423aa4faca13a739e312eeb1861c8728",
+  "size": 3686283,
+  "notes": "About section in Settings is now centered",
   "date": "2026-11-08"
 }

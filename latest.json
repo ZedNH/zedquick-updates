@@ -1,8 +1,8 @@
 {
-  "version": "3.6.1",
-  "url": "https://raw.githubusercontent.com/ZedNH/zedquick-updates/main/packages/zedquick-3.6.1.zqu",
-  "sha256": "ddc4beb783ae7f9cd03fd2ecb1a9f7bd23c7c692a75709fc9538a75f9ccf9b69",
-  "size": 3685715,
-  "notes": "Smarter tools: Text, Selection, Artboard, Path, Shape, Image and Production groups rebuilt (formatting-safe case and find & replace, exact split lines/words, layer-safe fit, printer marks without resizing the artboard, clean-up preview and more)",
+  "version": "3.6.2",
+  "url": "https://raw.githubusercontent.com/ZedNH/zedquick-updates/main/packages/zedquick-3.6.2.zqu",
+  "sha256": "fb766a397e0d6a3b13085f0faf3f3638bc044e516a25c9b9ef4b14d109d36f33",
+  "size": 3686141,
+  "notes": "Cleaner Settings page (no document bar, tool search or tab bar while it is open) and a compact About section",
   "date": "2026-11-08"
 }

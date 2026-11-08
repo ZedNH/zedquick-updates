@@ -1,8 +1,8 @@
 {
-  "version": "3.6.0",
-  "url": "https://github.com/ZedNH/zedquick-updates/releases/download/v3.6.0/zedquick-3.6.0.zqu",
-  "sha256": "4035e4fcf4bdddf6cc018277e1fbccce264d37b7ca116772dc591d68137364e1",
-  "size": 3663513,
-  "notes": "Stack Text tool, in-panel updates, new header and Settings, font site fixes",
+  "version": "3.6.1",
+  "url": "https://github.com/ZedNH/zedquick-updates/releases/download/v3.6.1/zedquick-3.6.1.zqu",
+  "sha256": "ddc4beb783ae7f9cd03fd2ecb1a9f7bd23c7c692a75709fc9538a75f9ccf9b69",
+  "size": 3685715,
+  "notes": "Smarter tools: Text, Selection, Artboard, Path, Shape, Image and Production groups rebuilt (formatting-safe case and find & replace, exact split lines/words, layer-safe fit, printer marks without resizing the artboard, clean-up preview and more)",
   "date": "2026-11-08"
 }

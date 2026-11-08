@@ -1,6 +1,6 @@
 {
   "version": "3.6.1",
-  "url": "https://github.com/ZedNH/zedquick-updates/releases/download/v3.6.1/zedquick-3.6.1.zqu",
+  "url": "https://raw.githubusercontent.com/ZedNH/zedquick-updates/main/packages/zedquick-3.6.1.zqu",
   "sha256": "ddc4beb783ae7f9cd03fd2ecb1a9f7bd23c7c692a75709fc9538a75f9ccf9b69",
   "size": 3685715,
   "notes": "Smarter tools: Text, Selection, Artboard, Path, Shape, Image and Production groups rebuilt (formatting-safe case and find & replace, exact split lines/words, layer-safe fit, printer marks without resizing the artboard, clean-up preview and more)",
